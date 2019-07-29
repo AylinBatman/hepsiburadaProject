@@ -35,23 +35,23 @@ public class HepsiBuradaLoginPage extends BasePage {
     }
 
     public void checkHomepageTrue(){
-
+        BTN_PASSWORD.click();
     }
 
     public void searchProduct(){
-
+        BTN_PASSWORD.click();
     }
 
     public void selectProductListOne(){
-
+        BTN_PASSWORD.click();
     }
 
     public void addSelectedProducts(){
-
+        BTN_PASSWORD.click();
     }
 
     public void checkAddedTrue(){
-
+        BTN_PASSWORD.click();
     }
 
 

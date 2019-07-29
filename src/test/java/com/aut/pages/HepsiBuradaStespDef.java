@@ -1,8 +1,9 @@
 package com.aut.pages;
+
+
 import com.thoughtworks.gauge.Step;
 
-public class HepsiBuradaStepDef {
-
+public class HepsiBuradaStespDef {
 
     @Step("User login is done")
     public void userLoginisDone() {
@@ -36,4 +37,7 @@ public class HepsiBuradaStepDef {
 
 
 
+
+
 }
+

@@ -15,6 +15,7 @@ Adding products to the basket by user login
 * Two different vendor products are selected for the selected product and added to the basket
 * Verify that the selected product is added correctly on the ’Cart’ page
 
+
 Adding products to the basket without user input
 ------------------------------------------------
 * User visits Hepsiburada.com
