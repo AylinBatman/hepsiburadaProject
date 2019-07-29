@@ -1,4 +1,4 @@
-# gauge-java-maven-selenium-demo project
+# gauge-java-maven-selenium project
 
 This is an example project, illustrating how to do test automation using [Gauge](https://github.com/getgauge/gauge) test automation framework, with Java support.
 
